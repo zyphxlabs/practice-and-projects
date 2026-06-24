@@ -7,7 +7,7 @@
 
 ## What This Was About
 
-So the given scenario was about an Botium toy company that operate online and they were growing fast but they had no security plans in place so the company manager decieded to take action to keep them secure so she planned an internal audit so she they can assess what they had and where they lack  and whether their policies rule etc align with regulations or not
+So the given scenario was about an Botium toy company that operate online and they were growing fast but they had no security plans in place so the company manager decieded to take action to keep them secure so she planned an internal audit so  they can assess what they had and where they lack  and whether their policies rule etc align with regulations or not
 
 My job was to  first analyze their scope goals and risk assessment reports  then go through a controls and compliance checklist and mark what was in place and what wasn't. Risk score was 8 out of 10 which is pretty high
 
